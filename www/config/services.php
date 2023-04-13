@@ -35,7 +35,7 @@ return [
     'google' => [
         'client_id' => '541002877508-7lvf6cuchcfqio49u1ci44qfovj17mg1.apps.googleusercontent.com',
         'client_secret' => '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',
-        'redirect' => 'http://localhost:8085/login/google/callback',
+        'redirect' => 'http://dpys.sefamerve.com.tr/login/google/callback',
     ],
 
 ];
